@@ -370,7 +370,7 @@ public class SiteImpl implements Serializable, Site {
 	}
 	
 	public void printSessionNumber() throws RemoteException {
-		log("Actual sessio number: " + this.sessionNum);
+		log("Actual session number: " + this.sessionNum);
 	}
 	
 	public void printHeading() throws RemoteException {
